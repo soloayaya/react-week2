@@ -14,8 +14,8 @@ function App() {
   const [products, setProducts] = useState([]);
 
   const [account, setAccount] = useState({
-    username: "example@test.com",
-    password: "example",
+    username: "a108510392@gm7.usc.edu.tw",
+    password: "kh25858570",
   });
 
   const handleInputChange = (e) => {
